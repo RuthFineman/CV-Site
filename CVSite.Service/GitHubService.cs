@@ -46,20 +46,16 @@ namespace CVSite.Service
 
                     if (latestUpdate <= cachedPortfolio.LastUpdated)
                     {
-                        // ה-cache טרי, מחזירים את המידע מה-cache
                         return cachedPortfolio.Repos;
                     }
                 }
                 catch (Exception ex)
                 {
                     _logger.LogError(ex, "Failed to get latest update date from GitHub. Returning cached data.");
-                    // במקרה של שגיאה ב-GetLatestUpdateDate, נחזיר את המידע מה-cache
                     return cachedPortfolio.Repos;
                 }
-                // אחרת, נעדכן את ה-cache עם מידע חדש
             }
 
-            // אם אין cache או שהמידע לא טרי - מושכים את המידע מחדש מה-GitHub
             var result = new List<PortfolioRepoDto>();
 
             try
@@ -80,7 +76,7 @@ namespace CVSite.Service
                         }
                         catch (ApiException ex) when (ex.Message.Contains("Git Repository is empty"))
                         {
-                            continue; // לדלג על ריפוזיטורי ריק
+                            continue; 
                         }
 
                         if (commits.Count == 0)
@@ -126,7 +122,7 @@ namespace CVSite.Service
                 {
                     return fallbackCache.Repos;
                 }
-                throw; // אם אין גם cache, זורקים את השגיאה למעלה
+                throw; 
             }
 
             return result;
@@ -188,9 +184,9 @@ namespace CVSite.Service
                 Name = repo.Name,
                 Description = repo.Description,
                 Stars = repo.StargazersCount,
-                PullRequests = 0, // אין מידע בפונקציית חיפוש, אפשר להשאיר 0
-                LastCommitDate = repo.UpdatedAt.DateTime, // או createdAt לפי העדפה
-                Languages = new List<string>(), // אין מידע בשלב זה
+                PullRequests = 0, 
+                LastCommitDate = repo.UpdatedAt.DateTime, 
+                Languages = new List<string>(),
                 Homepage = repo.Homepage
             }).ToList();
 

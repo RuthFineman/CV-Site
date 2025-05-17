@@ -1,6 +1,5 @@
 ﻿using CVSite.Core.DTOs;
 using CVSite.Core.Interfaces;
-//using CVSite.Service;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -27,7 +26,7 @@ namespace CVSite.Api.Controllers
         public async Task<IActionResult> SearchRepositories([FromQuery] string? repoName, [FromQuery] string? language)
         {
             var results = await _gitHubService.SearchRepositories(repoName, language);
-            return Ok(results); // החזרת רשימת PortfolioRepoDto בתוך IActionResult
+            return Ok(results);
         }
     }
 }
