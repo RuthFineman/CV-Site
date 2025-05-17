@@ -1,0 +1,50 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "CVSite API",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/GitHub/portfolio": {
+      "get": {
+        "tags": [
+          "GitHub"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/GitHub/search": {
+      "get": {
+        "tags": [
+          "GitHub"
+        ],
+        "parameters": [
+          {
+            "name": "repoName",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "language",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

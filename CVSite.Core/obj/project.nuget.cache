@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MavWFEhqZ5Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Core\\CVSite.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\octokit\\14.0.0\\octokit.14.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

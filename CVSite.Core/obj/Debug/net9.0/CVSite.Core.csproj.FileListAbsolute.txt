@@ -1,0 +1,17 @@
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\bin\Debug\net9.0\CVSite.Core.exe
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\bin\Debug\net9.0\CVSite.Core.deps.json
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\bin\Debug\net9.0\CVSite.Core.runtimeconfig.json
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\bin\Debug\net9.0\CVSite.Core.dll
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\bin\Debug\net9.0\CVSite.Core.pdb
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\obj\Debug\net9.0\CVSite.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\obj\Debug\net9.0\CVSite.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\obj\Debug\net9.0\CVSite.Core.AssemblyInfo.cs
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\obj\Debug\net9.0\CVSite.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\obj\Debug\net9.0\CVSite.Core.dll
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\obj\Debug\net9.0\refint\CVSite.Core.dll
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\obj\Debug\net9.0\CVSite.Core.pdb
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\obj\Debug\net9.0\CVSite.Core.genruntimeconfig.cache
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\obj\Debug\net9.0\ref\CVSite.Core.dll
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\bin\Debug\net9.0\Octokit.dll
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\obj\Debug\net9.0\CVSite.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Documents\תכנות ו\פרקטיקוד\פרקטיקוד 5\CVSite\CVSite.Core\obj\Debug\net9.0\CVSite.C.E3E8891E.Up2Date

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "it22kFtquLj2XRm1FrMqXlDHSAiLxotDZtGQCCbp3zA=",
+  "Source": "CVSite.Api",
+  "BasePath": "_content/CVSite.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

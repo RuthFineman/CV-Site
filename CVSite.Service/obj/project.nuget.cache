@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fzd94oUb9Ro=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Service\\CVSite.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.0-preview.4.25258.110\\microsoft.extensions.caching.abstractions.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0-preview.4.25258.110\\microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0-preview.4.25258.110\\microsoft.extensions.logging.abstractions.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.options\\10.0.0-preview.4.25258.110\\microsoft.extensions.options.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.0-preview.4.25258.110\\microsoft.extensions.primitives.10.0.0-preview.4.25258.110.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\octokit\\14.0.0\\octokit.14.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.diagnostics.diagnosticsource\\10.0.0-preview.4.25258.110\\system.diagnostics.diagnosticsource.10.0.0-preview.4.25258.110.nupkg.sha512"
+  ],
+  "logs": []
+}

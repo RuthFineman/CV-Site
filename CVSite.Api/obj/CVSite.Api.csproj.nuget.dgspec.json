@@ -1,0 +1,251 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Api\\CVSite.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Api\\CVSite.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Api\\CVSite.Api.csproj",
+        "projectName": "CVSite.Api",
+        "projectPath": "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Api\\CVSite.Api.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Core\\CVSite.Core.csproj": {
+                "projectPath": "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Core\\CVSite.Core.csproj"
+              },
+              "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Service\\CVSite.Service.csproj": {
+                "projectPath": "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Service\\CVSite.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Core\\CVSite.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Core\\CVSite.Core.csproj",
+        "projectName": "CVSite.Core",
+        "projectPath": "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Core\\CVSite.Core.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Octokit": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Service\\CVSite.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Service\\CVSite.Service.csproj",
+        "projectName": "CVSite.Service",
+        "projectPath": "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Service\\CVSite.Service.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Core\\CVSite.Core.csproj": {
+                "projectPath": "C:\\Users\\user1\\Documents\\תכנות ו\\פרקטיקוד\\פרקטיקוד 5\\CVSite\\CVSite.Core\\CVSite.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.0-preview.4.25258.110, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.0-preview.4.25258.110, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[10.0.0-preview.4.25258.110, )"
+            },
+            "Octokit": {
+              "target": "Package",
+              "version": "[14.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

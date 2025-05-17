@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\CVSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21D940D7-9BC2-4BF3-B919-1908E681D41C}|CVSite.Service\\CVSite.Service.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\cvsite\\cvsite.service\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D940D7-9BC2-4BF3-B919-1908E681D41C}|CVSite.Service\\CVSite.Service.csproj|solutionrelative:cvsite.service\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511B070F-818D-43A2-9771-2087D7CD46C8}|CVSite.Core\\CVSite.Core.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\cvsite\\cvsite.core\\dtos\\cachedportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511B070F-818D-43A2-9771-2087D7CD46C8}|CVSite.Core\\CVSite.Core.csproj|solutionrelative:cvsite.core\\dtos\\cachedportfolio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D940D7-9BC2-4BF3-B919-1908E681D41C}|CVSite.Service\\CVSite.Service.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\cvsite\\cvsite.service\\githuboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D940D7-9BC2-4BF3-B919-1908E681D41C}|CVSite.Service\\CVSite.Service.csproj|solutionrelative:cvsite.service\\githuboptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511B070F-818D-43A2-9771-2087D7CD46C8}|CVSite.Core\\CVSite.Core.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\cvsite\\cvsite.core\\dtos\\portfoliorepodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511B070F-818D-43A2-9771-2087D7CD46C8}|CVSite.Core\\CVSite.Core.csproj|solutionrelative:cvsite.core\\dtos\\portfoliorepodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3736D9-AA73-40DD-84B4-D751C852954D}|CVSite.Api\\CVSite.Api.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\cvsite\\cvsite.api\\controllers\\githubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3736D9-AA73-40DD-84B4-D751C852954D}|CVSite.Api\\CVSite.Api.csproj|solutionrelative:cvsite.api\\controllers\\githubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3736D9-AA73-40DD-84B4-D751C852954D}|CVSite.Api\\CVSite.Api.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\cvsite\\cvsite.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3736D9-AA73-40DD-84B4-D751C852954D}|CVSite.Api\\CVSite.Api.csproj|solutionrelative:cvsite.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{511B070F-818D-43A2-9771-2087D7CD46C8}|CVSite.Core\\CVSite.Core.csproj|c:\\users\\user1\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\cvsite\\cvsite.core\\interfaces\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{511B070F-818D-43A2-9771-2087D7CD46C8}|CVSite.Core\\CVSite.Core.csproj|solutionrelative:cvsite.core\\interfaces\\igithubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CachedPortfolio.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\CVSite\\CVSite.Core\\DTOs\\CachedPortfolio.cs",
+              "RelativeDocumentMoniker": "CVSite.Core\\DTOs\\CachedPortfolio.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\CVSite\\CVSite.Core\\DTOs\\CachedPortfolio.cs",
+              "RelativeToolTip": "CVSite.Core\\DTOs\\CachedPortfolio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:13:10.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\CVSite\\CVSite.Api\\Program.cs",
+              "RelativeDocumentMoniker": "CVSite.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\CVSite\\CVSite.Api\\Program.cs",
+              "RelativeToolTip": "CVSite.Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:42:29.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IGitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\CVSite\\CVSite.Core\\Interfaces\\IGitHubService.cs",
+              "RelativeDocumentMoniker": "CVSite.Core\\Interfaces\\IGitHubService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\CVSite\\CVSite.Core\\Interfaces\\IGitHubService.cs",
+              "RelativeToolTip": "CVSite.Core\\Interfaces\\IGitHubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:12:37.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PortfolioRepoDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\CVSite\\CVSite.Core\\DTOs\\PortfolioRepoDto.cs",
+              "RelativeDocumentMoniker": "CVSite.Core\\DTOs\\PortfolioRepoDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\CVSite\\CVSite.Core\\DTOs\\PortfolioRepoDto.cs",
+              "RelativeToolTip": "CVSite.Core\\DTOs\\PortfolioRepoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T20:10:35.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\CVSite\\CVSite.Service\\GitHubService.cs",
+              "RelativeDocumentMoniker": "CVSite.Service\\GitHubService.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\CVSite\\CVSite.Service\\GitHubService.cs*",
+              "RelativeToolTip": "CVSite.Service\\GitHubService.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAhwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:50:00.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GitHubOptions.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\CVSite\\CVSite.Service\\GitHubOptions.cs",
+              "RelativeDocumentMoniker": "CVSite.Service\\GitHubOptions.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\CVSite\\CVSite.Service\\GitHubOptions.cs",
+              "RelativeToolTip": "CVSite.Service\\GitHubOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T19:37:57.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GitHubController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\CVSite\\CVSite.Api\\Controllers\\GitHubController.cs",
+              "RelativeDocumentMoniker": "CVSite.Api\\Controllers\\GitHubController.cs",
+              "ToolTip": "C:\\Users\\user1\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA \u05D5\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3\\\u05E4\u05E8\u05E7\u05D8\u05D9\u05E7\u05D5\u05D3 5\\CVSite\\CVSite.Api\\Controllers\\GitHubController.cs",
+              "RelativeToolTip": "CVSite.Api\\Controllers\\GitHubController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:56:16.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
